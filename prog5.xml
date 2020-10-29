@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="prog5.css"?>
+<student>
+<stud>
+<USN>USN : 4VV17CS401</USN>
+<name>NAME : CHRIS</name>
+<clg>COLLEGE : VVCE</clg>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<yr>YEAR : 2020</yr>
+</stud>
+<stud>
+<USN>USN : 4VV17CS402</USN>
+<name>NAME : SASHI</name>
+<clg>COLLEGE : VVCE</clg>
+<branch>BRANCH : Information Science and Engineering</branch>
+<yr>YEAR : 2020</yr>
+</stud>
+<stud>
+<USN>USN : 4VV17CS403</USN>
+<name>NAME : TONY</name>
+<clg>COLLEGE : VVCE</clg>
+<branch>BRANCH : Mechanical Engineering</branch>
+<yr>YEAR : 2020</yr>
+</stud>
+</student>
